@@ -1,2 +1,2 @@
 # tetris
-Classic tetris game with some extra features
+Classic tetris game with some extra features.
